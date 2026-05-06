@@ -78,13 +78,15 @@ excel-data-analysis-project/
 ├── data/
 │   ├── ongoing_project.xlsx
 │   └── completed_project.xlsx
+│      ├── answers/
+│      ├── answer1.png
+│      ├── answer2.png
+│      ├── answer3.png
+│      ├── answer4.png
+│      ├── answer5.png
+│      └── answer6.png
 │
-├── screenshots/
-│   ├── question1.png
-│   ├── question2.png
-│   ├── question3.png
-│   ├── question4.png
-│   ├── question5.png
-│   └── question6.png
+
+
 │
 └── 
